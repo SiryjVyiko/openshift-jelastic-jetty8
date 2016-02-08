@@ -2,11 +2,11 @@ Name: jetty8
 Cartridge-Short-Name: JETTY8
 Display-Name: JETTY8
 Description: "Jelastic Jetty8"
-Version: '8.14'
+Version: '8.1.17'
 License: 'Apache licence'
 License-Url: 
 Vendor: Eclipse
-Cartridge-Version: 8.14
+Cartridge-Version: 8.1.17
 Cartridge-Vendor: Jelastic
 Categories:
   - service
